@@ -1,0 +1,24 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "frontend for MAI app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/danox46/mai-frontend.git"
+  },
+  "keywords": [
+    "mai",
+    "front",
+    "react"
+  ],
+  "author": "Daniel Rosales",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danox46/mai-frontend/issues"
+  },
+  "homepage": "https://github.com/danox46/mai-frontend#readme"
+}

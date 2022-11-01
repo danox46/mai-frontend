@@ -1,0 +1,2 @@
+- Use Base URL on env file
+- Create cookies for the token
